@@ -7,3 +7,5 @@ IN this folder I am adding all the prolog codes as well as python codes that I h
 
 I am also adding the datasets that I used.
 And many more...
+
+NOTE: You might have to change paths used inside codes, according to your directories!
