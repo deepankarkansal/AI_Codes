@@ -5,4 +5,5 @@ IN this folder I am adding all the prolog codes as well as python codes that I h
 2. M.Tech Career Advisory System using Prolog 
 3. Prolog program for searching routes using DFS and Best First Search in between states
 
+I am also adding the datasets that I used.
 And many more...
